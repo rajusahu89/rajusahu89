@@ -1,14 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkumarkml&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkumarkml" /> </p>
 <img align="left" alt="coding" width="400" src="https://media.istockphoto.com/videos/young-man-cartoon-hd-animation-video-id1030543114?s=640x640"></img>
 <br><br>
-<h1 style="color:blue" align="right">Hi 👋, I'm Avinash Kumar
+<h1 style="color:blue" align="right">Hi 👋, I'm Raju Sahu
    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px" style="max-width: 100%;"></a>
 </h1>
 <h3 align="right">MERN Stack Developer</h3>
 <br><br>
 
 # Brief about me...!!!
-I have Bachelors degree in Arts. Dedicated  and  determined  aspiring  full-stack developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
+I have Bachelors degree in Science. Dedicated  and  determined  aspiring  frontend developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
 <br><br>
 
 
@@ -18,15 +18,15 @@ I have Bachelors degree in Arts. Dedicated  and  determined  aspiring  full-stac
 
 - 💬 Ask me about **ReactJs, HTML, CSS, JavaScipt**
 
-- 📫 How to reach me **theavinashbhardwaj@gmail.com**
+- 📫 How to reach me **thesahuraju@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/10iXa_b78UtBasI2ZObJ-fH8DEe65_zIu/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1LkKnDOxEAhjTK6AybJVmoxKRy9OMgBMy/view?usp=sharing)
 
-- 👨‍💻 - 👨‍💻 All of my projects are available at *[My Portfolio](https://avinash-portfolio-avinashkumarkml.vercel.app/#/)*
+- 👨‍💻 - 👨‍💻 All of my projects are available at *[My Portfolio](https://raju-portfolio-one.vercel.app/#/)*
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/avinashdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinashdeveloper/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajusahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinashdeveloper/" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
