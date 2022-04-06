@@ -16,7 +16,7 @@ I have Bachelors degree in Science. Dedicated  and  determined  aspiring  fronte
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **ReactJs, HTML, CSS, JavaScipt**
+- 💬 Ask me about **ReactJs, HTML, CSS, JavaScipt***
 
 - 📫 How to reach me **thesahuraju@gmail.com**
 
